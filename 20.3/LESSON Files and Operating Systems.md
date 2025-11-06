@@ -1,5 +1,5 @@
 # 20.3 LESSON Files and Operating Systems
-
+**Outcomes 1.1-1.2:**
 **Things to focus on:**  
 - Understand the client/server relationship between a program (like a p5.js sketch) and the operating system when handling files.
 
