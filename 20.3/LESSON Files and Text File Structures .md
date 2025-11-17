@@ -124,7 +124,7 @@ function arraysEqual(a, b) {
 
 ---
 
-## 4. Quick p5.js Examples
+## 4. Quick Examples
 
 **Sequential Read:**
 
