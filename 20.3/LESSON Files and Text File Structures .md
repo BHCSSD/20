@@ -1,4 +1,4 @@
-# Lesson: Files and Text File Structures  
+# 20.3 LESSON Files and Text File Structures  
 **Outcomes 1.3-1.5:**  
 - Understand the logical structure of text files  
 - Learn the main operations with text files  
