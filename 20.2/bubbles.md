@@ -9,7 +9,7 @@ Instead of managing separate, disconnected arrays for cx and cy positions, we pu
 
 ---
 
-## 2. Loading the Array (`setup`)
+## 2. Loading the Array
 
 To create a population of objects, we declare an empty array and use a `for` loop to fill it with object literals.
 
@@ -32,7 +32,7 @@ function setup() {
 
 ---
 
-## 3. Display and Update (`draw`)
+## 3. Display and Update 
 
 Use a loop to iterate through the array. We access the data inside each object using **Dot Notation** `bubbles[i].cx`
 > [!note]
