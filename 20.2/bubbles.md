@@ -62,7 +62,7 @@ function draw() {
     if (b.cy > height + b.r) {
 
     }//end of if
-  }end of for
+  }//end of for
 
 
 }//end fo draw
