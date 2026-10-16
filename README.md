@@ -19,7 +19,11 @@
 
 5. **Remove any print statements**
 
-6. **Make sure there are no Erors** 
+6. **Make sure there are no Erors**
+
+7. **Remove any dead code**
+   - If there is any code that is commented out, remove it.
+   - If there is code/ variables / functions not being used, remove it. 
 ---
 
 ### Example
